@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680014206564",
+    "project_id": "loginfirecompleto",
+    "storage_bucket": "loginfirecompleto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680014206564:android:c8683e5e6a5ca9b412b171",
+        "android_client_info": {
+          "package_name": "com.example.loginfirecompleto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680014206564-sflusfepovm4nehhqs1969j6s8ab89e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmSYuGkKazoPS3O_6nbbCtLKFFn2OqbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680014206564-sflusfepovm4nehhqs1969j6s8ab89e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
